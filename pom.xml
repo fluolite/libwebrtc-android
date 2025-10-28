@@ -6,5 +6,5 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.iot.webrtc</groupId>
     <artifactId>libwebrtc</artifactId>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
 </project>
